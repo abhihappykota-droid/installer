@@ -1,0 +1,4 @@
+# Prynt Installer Dependencies
+requests>=2.28.0
+pywin32>=305
+Pillow>=9.0.0  # Also used for icon creation (create_icon.py)
